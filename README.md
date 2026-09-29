@@ -49,7 +49,7 @@ Screenshots of the training and testing process are included in this repository.
 
 ## 📸 Project Screenshots
 
-Screenshots showing the project creation, training process, testing and final prediction are included in the `screenshots` folder.
+Screenshots showing the project creation, training process, testing and final prediction are included in the folder.
 
 ## 🔗 Tool
 
